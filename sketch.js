@@ -4,8 +4,8 @@ function setup() {
 
 function draw() {
     background(220);
-    fill(0)
-    circle(200,200,100)
+    fill(0);
+    ellipse(100, 100 , 100, 100);
     //make the circle black
 
 }
